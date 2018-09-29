@@ -35,9 +35,9 @@ class DictionaryManagement{
 	//Hàm trung gian
 	public void show(){
 		int i;
-		System.out.println("No     |English        |Vietnamese");
+		System.out.println("No		|English	|Vietnamese");
 		for(i=0;i<n;i++){
-			System.out.println((i+1)+"      |"+a.word[i].word_target+"          |"+a.word[i].word_explain);
+			System.out.println((i+1)+"		|"+a.word[i].word_target+"		|"+a.word[i].word_explain);
 		}
 	}
 }
