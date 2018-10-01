@@ -89,6 +89,7 @@ public class Dictionary3{
 			}
 		}
 		else System.out.println("Ket Thuc!!!");
+		b.dictionarySearcher();
 	}
 }
 class Word{
@@ -200,6 +201,18 @@ class DictionaryManagement{
 		}
 		if(k.equals("N")) System.out.println("BYE!!!");
 	}
+	//Hàm tìm kiếm 
+	public void Search(String s){
+		int j;
+		int t=0;
+		for(j=0;j<n;j++){
+			if(a.word[j].word_target.startsWith(s))  System.out.println(a.word[j].word_target+"	"+a.word[j].word_explain);
+			else{
+				t++;
+			}
+		}
+		if(t==n) System.out.println("Khong tim thay.");
+	}
 	//Hàm trung gian
 	public void show(){
 		int i;
@@ -223,6 +236,12 @@ class DictionaryCommandline{
 		b.insertFromFile();
 		showAllWords();
 		b.dictionaryLookup();
+	}
+	public void dictionarySearcher(){
+		Scanner input=new Scanner(System.in);
+		System.out.println("Moi ban nhap tu can tim: ");
+		String s=input.nextLine();
+		b.Search(s);
 	}
 }
 class FileText{

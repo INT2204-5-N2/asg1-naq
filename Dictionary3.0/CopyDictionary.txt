@@ -1,1 +1,1 @@
-Dog	ChoCat	MeoFish	CaBird	ChimBear	GauTiger	Ho
+Dog	ChoCat	MeoFish	CaBird	ChimBear	GauTiger	HoDuck	Vit

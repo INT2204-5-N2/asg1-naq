@@ -10,3 +10,5 @@ Bear
 Gau
 Tiger
 Ho
+Duck
+Vit

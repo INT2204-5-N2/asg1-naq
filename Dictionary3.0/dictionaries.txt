@@ -4,3 +4,4 @@ Fish	Ca
 Bird	Chim
 Bear	Gau
 Tiger	Ho
+Duck	Vit
