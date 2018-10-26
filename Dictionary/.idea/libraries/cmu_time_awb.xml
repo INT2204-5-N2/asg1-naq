@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="cmu_time_awb">
+    <CLASSES>
+      <root url="jar://D:/NAQ/Linh tinh/freetts-1.2/lib/cmu_time_awb.jar!/" />
+      <root url="jar://D:/NAQ/Linh tinh/freetts-1.2/lib/cmu_us_kal.jar!/" />
+      <root url="jar://D:/NAQ/Linh tinh/freetts-1.2/lib/en_us.jar!/" />
+      <root url="jar://D:/NAQ/Linh tinh/freetts-1.2/lib/freetts-jsapi10.jar!/" />
+      <root url="jar://D:/NAQ/Linh tinh/freetts-1.2/lib/freetts.jar!/" />
+      <root url="jar://D:/NAQ/Linh tinh/freetts-1.2/lib/mbrola.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

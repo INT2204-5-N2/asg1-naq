@@ -1,20 +1,340 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3670397-8672-4be5-b112-4d1d08e0da1a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Dictionary/.idea/artifacts/Dictionary_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/.idea/libraries/ImportComponentLibrary.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/.idea/libraries/cmu_time_awb.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/.idea/libraries/freetts_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/.idea/libraries/mysql_connector_java_8_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/out/artifacts/Dictionary_jar/Dictionary.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/Test/ConnectionSQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/Test/KeyEventTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/Test/MySQLConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/Test/QueryData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/Test/TestFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/Test/Translator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/dictionary4/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/dictionary4/Dictionary4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/dictionary4/DictionaryCommandline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/dictionary4/DictionaryManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/dictionary4/DumpURL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/dictionary4/FileText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/dictionary4/SignIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/dictionary4/SignUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/dictionary4/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/dictionary4/dictionaryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/dictionary4/settingDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/dictionary5/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/dictionary5/Delete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/dictionary5/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/dictionary5/Dictionary5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/dictionary5/DictionaryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/dictionary5/DictionaryManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/dictionary5/Edit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/dictionary5/FileText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/dictionary5/SignIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/dictionary5/SignUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/java/dictionary5/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/Account.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/Anh-Viet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/CopyAccount.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/CopyDictionary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/Dictionary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/English.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/Viet-Anh.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/aasas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/ad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/admin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/bk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/dele.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/dictionaries.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/edi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/expo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/export.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/find.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/hel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/if_Avengers_marvel_movie_comic_book_action_3108965.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/if_Dictionary_Translate_Letters_Words_Translation_1329087.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/if_accessories-dictionary_23662 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/if_book_322421.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/if_book_text_add_103409.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/if_book_text_information_103411.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/if_book_text_remove_103412.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/if_book_text_settings_103415.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/if_document_text_add_103511.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/look.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/mbrola/mbr302a/MBROLA.EXE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/mbrola/mbr302a/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/mbrola/mbrola.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/mbrola/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/mbrola/us1/TEST/alice.pho" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/mbrola/us1/TEST/mbrola.pho" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/mbrola/us1/TEST/mbroli.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/mbrola/us1/TEST/push.pho" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/mbrola/us1/TEST/xmas.pho" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/mbrola/us1/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/mbrola/us1/us1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/mbrola/us1/us1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/mbrola/us1/us1mrpa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/mbrola/us2/TEST/alice.pho" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/mbrola/us2/TEST/babel.pho" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/mbrola/us2/TEST/mbrola.pho" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/mbrola/us2/TEST/mbroli.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/mbrola/us2/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/mbrola/us2/us2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/mbrola/us2/us2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/reset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/speak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/temp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/src/main/resources/temp1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/Dictionary-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/Dictionary-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/Account.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/Anh-Viet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/CopyAccount.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/CopyDictionary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/Dictionary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/English.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/Test/ConnectionSQL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/Test/KeyEventTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/Test/MySQLConnect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/Test/QueryData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/Test/TestFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/Test/Translator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/Viet-Anh.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/aasas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/ad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/admin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/bk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dele.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dictionaries.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dictionary4/Dictionary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dictionary4/Dictionary4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dictionary4/DictionaryCommandline.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dictionary4/DictionaryManagement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dictionary4/DumpURL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dictionary4/FileText.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dictionary4/SignIn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dictionary4/SignUp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dictionary4/Word.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dictionary4/dictionaryApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dictionary4/settingDictionary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dictionary5/Add.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dictionary5/Delete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dictionary5/Dictionary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dictionary5/Dictionary5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dictionary5/DictionaryApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dictionary5/DictionaryManagement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dictionary5/Edit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dictionary5/FileText.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dictionary5/SignIn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dictionary5/SignUp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/dictionary5/Word.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/edi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/expo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/export.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/find.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/hel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/if_Avengers_marvel_movie_comic_book_action_3108965.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/if_Dictionary_Translate_Letters_Words_Translation_1329087.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/if_accessories-dictionary_23662 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/if_book_322421.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/if_book_text_add_103409.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/if_book_text_information_103411.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/if_book_text_remove_103412.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/if_book_text_settings_103415.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/if_document_text_add_103511.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/look.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/mbrola/mbr302a/MBROLA.EXE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/mbrola/mbr302a/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/mbrola/mbrola.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/mbrola/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/mbrola/us1/TEST/alice.pho" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/mbrola/us1/TEST/mbrola.pho" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/mbrola/us1/TEST/mbroli.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/mbrola/us1/TEST/push.pho" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/mbrola/us1/TEST/xmas.pho" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/mbrola/us1/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/mbrola/us1/us1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/mbrola/us1/us1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/mbrola/us1/us1mrpa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/mbrola/us2/TEST/alice.pho" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/mbrola/us2/TEST/babel.pho" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/mbrola/us2/TEST/mbrola.pho" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/mbrola/us2/TEST/mbroli.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/mbrola/us2/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/mbrola/us2/us2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/mbrola/us2/us2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/reset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/speak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/temp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/classes/temp1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary/Dictionary.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary/Dictionary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary/dictionaries.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary/pom.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1275044315">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dictionary/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dictionary/src/main/java/dictionary5/DictionaryApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-612" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="11" />
-    <option name="y" value="10" />
-    <option name="width" value="875" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="624" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540525853708" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\asg1-naq" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3670397-8672-4be5-b112-4d1d08e0da1a" name="Default Changelist" comment="" />
+      <created>1540525518188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540525518188</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Dictionary/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dictionary/src/main/java/dictionary5/DictionaryApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-612" />
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
