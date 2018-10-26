@@ -204,6 +204,7 @@
     <session id="1275044315">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -231,9 +232,7 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dictionary/src/main/java/dictionary5/DictionaryApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-612" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -268,7 +267,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540526687051" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540526774164" />
     <property name="last_opened_file_path" value="D:/NAQ/Linh tinh/freetts-1.2/lib" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -340,9 +339,7 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Dictionary/src/main/java/dictionary5/DictionaryApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-612" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Dictionary/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
